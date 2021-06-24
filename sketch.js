@@ -17,7 +17,7 @@ function setup(){
 
 clog= new Log(230,180,80,PI/2);
     ground = new Ground(600,height,1200,20);
-    platform = new Ground(150, 305, 300, 170);
+    platform = new Ground(150, 305, 450, 170);
 
     box1 = new Box(700,320,70,70);
     box2 = new Box(920,320,70,70);
